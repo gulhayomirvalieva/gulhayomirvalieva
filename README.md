@@ -11,9 +11,12 @@
 - Node.js
 - Express
 
-## 📌 Projects
+##  Projects
 - React Login App  
 - Figma to HTML Projects  
 
-## 📫 Contact
+## Projects may look simple… and their names might be funny,
+but each one has made me a better developer 💻
+
+##  Contact
 - Telegram: https://t.me/Hayo_w
