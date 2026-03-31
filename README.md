@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**gulhayomirvalieva/gulhayomirvalieva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Gulhayo 
 
-Here are some ideas to get you started:
+💻 Full Stack JavaScript Developer  
+📍 Tashkent, Uzbekistan  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Tech Stack
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Node.js
+- Express
+
+## 📌 Projects
+- React Login App  
+- Figma to HTML Projects  
+
+## 📫 Contact
+- Telegram: https://t.me/Hayo_w
