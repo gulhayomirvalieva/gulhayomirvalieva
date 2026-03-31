@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Gulhayo 
 
 💻 Full Stack JavaScript Developer  
