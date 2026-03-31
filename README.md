@@ -15,8 +15,9 @@
 - React Login App  
 - Figma to HTML Projects  
 
-## Projects may look simple… and their names might be funny,
-but each one has made me a better developer 💻
+##
+-Projects may look simple… and their names might be funny,
+-but each one has made me a better developer 💻
 
 ##  Contact
 - Telegram: https://t.me/Hayo_w
