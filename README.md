@@ -21,4 +21,4 @@
 
 ##  Contact
 - Telegram: https://t.me/Hayo_w
-- email: gulhayomirvalieva100@gmail.com
+- Email: http://gulhayomirvalieva100@gmail.com
